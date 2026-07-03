@@ -133,7 +133,7 @@ streamlit run app.py
 - Dark/Light mode
 - Batch predictions using CSV upload
 - Better UI/UX
-- Deploy using Docker
+
 
 ---
 
